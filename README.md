@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a software engineer with 1.5+ years of experience in developing and integrating complex systems using Frappe and ERPNext. <br><br>My expertise lies in Frappe and ERPNext development and integration, project management.<br><br>In my previous roles, I have developed and integrated systems using Frappe and ERPNext according to client requirements. I have also designed and optimized database schemas to ensure optimal functionality and data integrity.<br><br>I am passionate about developing and integrating systems that deliver high-quality solutions to clients, and I am always seeking new challenges to enhance my skills and expertise.
+Hello, I am a software engineer with 2+ years of experience in developing and integrating complex systems using Frappe and ERPNext. <br><br>My expertise lies in Frappe and ERPNext development and integration, project management.<br><br>In my previous roles, I have developed and integrated systems using Frappe and ERPNext according to client requirements. I have also designed and optimized database schemas to ensure optimal functionality and data integrity.<br><br>I am passionate about developing and integrating systems that deliver high-quality solutions to clients, and I am always seeking new challenges to enhance my skills and expertise.
 
 
 ## 🌐 Socials:
